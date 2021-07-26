@@ -1,0 +1,35 @@
+
+.campaignMedia {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.campaignThumb {
+  max-height: 400px;
+  max-width: 200px;
+  width: auto;
+  border-radius: 5%;
+  margin-bottom: 8px;
+}
+
+.buttonArea {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 50px;
+}
+.buttons {
+  background-color: white;
+  border: 1px solid gray;
+  height: 50px;
+  width: 50px;
+  border-radius: 10%;
+  margin-bottom: 12px;
+  margin-left: 1px
+}
+
+.icons {
+  size: 2em;
+}
